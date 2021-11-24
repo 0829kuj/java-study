@@ -1,10 +1,9 @@
-package basic;
+package test;
 
 public class Test211119 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
 		System.out.println("===예제 1===");
 		// 예제 1. 중첩 for문을 이용해 특정모양을 출력하시오
 		for (int i = 1; i <= 4; i++) {
@@ -65,6 +64,7 @@ public class Test211119 {
 		System.out.println("sum : " + sum);
 		System.out.println("avg : " + avg);
 		
-	}	
-}
 
+	}
+
+}

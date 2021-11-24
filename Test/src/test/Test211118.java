@@ -1,10 +1,9 @@
-package basic;
+package test;
 
-import java.util.Scanner;
-
-public class Test1 {
+public class Test211118 {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		// 연습문제 1
 //		String name = "홍팍";
 //		int age = 35;
