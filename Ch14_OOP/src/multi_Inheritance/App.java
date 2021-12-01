@@ -10,7 +10,7 @@ interface Greeter {
 public class App {
 	public static void main(String[] args) {
 		// 인터페이스는 다중 구현이 가능
-		Person p1 = new Person();
+		Person p1 = new Person(); 
 		p1.greet();
 		p1.speak();
 		

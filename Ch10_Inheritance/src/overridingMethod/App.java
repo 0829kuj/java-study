@@ -16,9 +16,6 @@ public class App {
 		RoadCat cat3 = new RoadCat();
 		cat3.vocal();
 		cat3.hunt();
-		
-		Tiger cat4 = new Tiger();
-		cat4.vocal();
 
 	}
 
