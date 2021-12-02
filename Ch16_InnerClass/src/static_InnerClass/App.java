@@ -12,6 +12,6 @@ public class App {
 		
 		// 2. 스테틱 내부 클래스 (외부 클래스 이름.내부 클래스 이름 즉, 외부클래스의 이름으로 객체를 생성)
 		Person.Body body = new Person.Body();	// 클래스 Person의 Body를 순서대로
-		body.print();
+		body.print(); 
 	}
 }
