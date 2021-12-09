@@ -29,7 +29,6 @@ class Creature {
 		return id == other.id;
 	}
 
-	
 	@Override
 	public String toString() {
 		return "Creature [ id= " + id + ", name= " + name + " ]";
