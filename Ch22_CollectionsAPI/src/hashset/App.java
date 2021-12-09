@@ -3,7 +3,6 @@ package hashset;
 import java.util.HashSet;
 
 public class App {
-
 	public static void main(String[] args) {
 		// set타입은 list타입과 달리 중복이 안되고 순서가 없음
 		HashSet<String> fruits = new HashSet<String>();
