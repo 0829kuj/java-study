@@ -11,7 +11,7 @@ public class App {
 		
 		String text = "헬로우! \n 하 아 유?"; //적을 내용
 		
-		Path path = Paths.get("C:\\JAVA\\new.txt"); 
+		Path path = Paths.get("C:\\java502\\java-study\\Ch20_Reading_Writing\\new.txt"); 
 		//파일의 경로 (C:\JAVA\java-study3\CH20_Reading_Writing\text.txt)
 		
 		//쓰기 : text.txt 에 위의 text내용을 적기
