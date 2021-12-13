@@ -2,7 +2,7 @@ package method;
 
 import java.util.Scanner;
 
-public class RateItem {
+public class RareItem {
 	/*
 	체력과 마력이 동시에 동시에 2000이어야만 착용가능한 아이템이 있다
 	체력과 마력을 입력하여 작용결과를 출력하는 메소드 wear()를 완성하고 출력하시오
