@@ -18,7 +18,7 @@ public class App {
 		System.out.println();
 		numbers.stream() 	// numbers 객체에 stream을 생성하여 filter, forEach문을 사용
 			.filter(n -> n > 5)
-			.map(n -> n * n) 
+			.map(n -> n * n)
 			.forEach(n -> System.out.println(n));
 	}
 
