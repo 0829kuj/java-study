@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c6862a0-64b5-4498-9c95-72843e669b66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch01_MainMethod/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Ch01_MainMethod/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch01_MainMethod/src/application/test/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch01_MainMethod/src/application/test/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch02_Variable/src/convertingTemp/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02_Variable/src/convertingTemp/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch02_Variable/src/integerVariable/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02_Variable/src/integerVariable/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch02_Variable/src/integerVariable/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02_Variable/src/integerVariable/Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch02_Variable/src/integerVariable/Doubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02_Variable/src/integerVariable/Doubles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch02_Variable/src/integerVariable/PrintOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02_Variable/src/integerVariable/PrintOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch03_String/src/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch03_String/src/application/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch03_String/src/application/ControlCheracter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch03_String/src/application/ControlCheracter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch03_String/src/application/Printf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch03_String/src/application/Printf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch03_String/src/application/Printing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch03_String/src/application/Printing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch03_String/src/application/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch03_String/src/application/UserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/Boolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/Break.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/CheckPassLimit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/CheckPassLimit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/CheckPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/CheckPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/Condition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/DoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/Final.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/Final.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/For.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/For.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/If.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/If.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/IfElseIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/IfElseIfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/Increment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/PreAndPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/PreAndPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/StringEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/StringEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/Switch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/Switch2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04-Loop/src/application/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04-Loop/src/application/While.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch05_Arrays/src/application/ForEachArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05_Arrays/src/application/ForEachArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch05_Arrays/src/application/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05_Arrays/src/application/IntArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch05_Arrays/src/application/LoopArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05_Arrays/src/application/LoopArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch05_Arrays/src/application/MultiArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05_Arrays/src/application/MultiArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch05_Arrays/src/application/MultiArrayEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05_Arrays/src/application/MultiArrayEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch05_Arrays/src/application/NewArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05_Arrays/src/application/NewArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch05_Arrays/src/application/StringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05_Arrays/src/application/StringArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch05_Arrays/src/application/StringArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05_Arrays/src/application/StringArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/application/ClassObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/application/ClassObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/constructors/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/constructors/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/constructors/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/constructors/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/constructorsParameter/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/constructorsParameter/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/constructorsParameter/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/constructorsParameter/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/exam1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/exam1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/exam1/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/exam1/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/getterSetter/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/getterSetter/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/getterSetter/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/getterSetter/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/instanceVariable/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/instanceVariable/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/instanceVariable/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/instanceVariable/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/method/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/method/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/method/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/method/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/parameter/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/parameter/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/parameter/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/parameter/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/returnValue/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/returnValue/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/returnValue/ReturnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/returnValue/ReturnMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/school/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/school/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/school/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/school/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/windowProgramming/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/windowProgramming/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch06_Methods/src/windowProgramming/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06_Methods/src/windowProgramming/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch07_Hangman/src/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07_Hangman/src/application/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch07_Hangman/src/application/Hangman.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07_Hangman/src/application/Hangman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch07_Hangman/src/application/RandomWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07_Hangman/src/application/RandomWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch07_Hangman/src/test/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07_Hangman/src/test/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch07_Hangman/src/test/TernaryCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07_Hangman/src/test/TernaryCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch07_Hangman/src/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07_Hangman/src/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch08_Boolean/src/application/BooleanAnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08_Boolean/src/application/BooleanAnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch08_Boolean/src/application/BooleanAndOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08_Boolean/src/application/BooleanAndOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch08_Boolean/src/application/BooleanOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08_Boolean/src/application/BooleanOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch09_Static/src/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09_Static/src/application/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch09_Static/src/application/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09_Static/src/application/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/casting/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/casting/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/casting/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/casting/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/casting/HouseCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/casting/HouseCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/casting/RoadCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/casting/RoadCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/casting/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/casting/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/inheritance/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/inheritance/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/inheritance/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/inheritance/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/inheritance/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/overridingMethod/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/overridingMethod/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/overridingMethod/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/overridingMethod/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/overridingMethod/HouseCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/overridingMethod/HouseCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/overridingMethod/RoadCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/overridingMethod/RoadCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/overridingMethod/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/overridingMethod/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/polymorphism/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/polymorphism/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/polymorphism/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/polymorphism/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/polymorphism/HouseCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/polymorphism/HouseCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/polymorphism/RoadCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/polymorphism/RoadCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Inheritance/src/polymorphism/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Inheritance/src/polymorphism/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Protected/src/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Protected/src/application/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Protected/src/entities/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Protected/src/entities/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Protected/src/entities/Banana.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Protected/src/entities/Banana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10_Protected/src/entities/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10_Protected/src/entities/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch12_Constructor/src/default_Constructor/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch12_Constructor/src/default_Constructor/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch12_Constructor/src/default_Constructor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch12_Constructor/src/default_Constructor/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch12_Constructor/src/method_Overloading/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch12_Constructor/src/method_Overloading/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch12_Constructor/src/method_Overloading/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch12_Constructor/src/method_Overloading/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch12_Constructor/src/super_constructor/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch12_Constructor/src/super_constructor/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch12_Constructor/src/super_constructor/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch12_Constructor/src/super_constructor/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch12_Constructor/src/super_constructor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch12_Constructor/src/super_constructor/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch12_Constructor/src/this_Constructor/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch12_Constructor/src/this_Constructor/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch12_Constructor/src/this_Constructor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch12_Constructor/src/this_Constructor/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch13_Swing1/src/application/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13_Swing1/src/application/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch13_Swing1/src/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13_Swing1/src/gui/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch13_Swing1/src/gui/MainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13_Swing1/src/gui/MainPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch13_Swing1/src/gui/Toolbar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13_Swing1/src/gui/Toolbar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/abstract_Class/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/abstract_Class/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/abstract_Class/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/abstract_Class/GameObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/abstract_Class/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/abstract_Class/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/abstract_Class/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/abstract_Class/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/interfaces/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/interfaces/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/interfaces/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/interfaces/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/interfaces/Describable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/interfaces/Describable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/interfaces/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/interfaces/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/intergace_Inheritance/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/intergace_Inheritance/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/intergace_Inheritance/DefaultRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/intergace_Inheritance/DefaultRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/intergace_Inheritance/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/intergace_Inheritance/Machine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/multi_Inheritance/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/multi_Inheritance/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/multi_Inheritance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/multi_Inheritance/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/timer_Ex/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/timer_Ex/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/timer_Example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/timer_Example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/timer_Example2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/timer_Example2/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch14_OOP/src/timer_Example3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14_OOP/src/timer_Example3/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch15_Swing2/src/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15_Swing2/src/application/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch15_Swing2/src/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15_Swing2/src/gui/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch15_Swing2/src/gui/MainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15_Swing2/src/gui/MainPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch15_Swing2/src/gui/Toolbar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15_Swing2/src/gui/Toolbar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch15_Swing2/src/references/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15_Swing2/src/references/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch16_InnerClass/src/anonymous_Class/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch16_InnerClass/src/anonymous_Class/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch16_InnerClass/src/hashcode_this/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch16_InnerClass/src/hashcode_this/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch16_InnerClass/src/hashcode_this/Fox.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch16_InnerClass/src/hashcode_this/Fox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch16_InnerClass/src/innerClasses/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch16_InnerClass/src/innerClasses/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch16_InnerClass/src/local_InnerClass/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch16_InnerClass/src/local_InnerClass/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch16_InnerClass/src/local_InnerClass2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch16_InnerClass/src/local_InnerClass2/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch16_InnerClass/src/static_InnerClass/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch16_InnerClass/src/static_InnerClass/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch16_InnerClass/src/static_InnerClass/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch16_InnerClass/src/static_InnerClass/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch17_Swing3/src/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch17_Swing3/src/application/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch17_Swing3/src/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch17_Swing3/src/gui/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch17_Swing3/src/gui/MainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch17_Swing3/src/gui/MainPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch17_Swing3/src/gui/Toolbar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch17_Swing3/src/gui/Toolbar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch18_Enum/src/enum_Constructor/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch18_Enum/src/enum_Constructor/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch18_Enum/src/enum_Constructor/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch18_Enum/src/enum_Constructor/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch18_Enum/src/enum_example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch18_Enum/src/enum_example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch18_Enum/src/enum_example/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch18_Enum/src/enum_example/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch18_Enum/src/enum_methods/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch18_Enum/src/enum_methods/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch18_Enum/src/enum_methods/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch18_Enum/src/enum_methods/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch18_GameEx_Enum/src/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch18_GameEx_Enum/src/application/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch18_GameEx_Enum/src/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch18_GameEx_Enum/src/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch18_GameEx_Enum/src/game/objects/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch18_GameEx_Enum/src/game/objects/GameObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/custom_exception/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/custom_exception/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/custom_exception/Thermostat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/custom_exception/Thermostat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/custom_exception/exceptions/TempOutOfRangeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/custom_exception/exceptions/TempOutOfRangeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/custom_exception/exceptions/TempTooHighException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/custom_exception/exceptions/TempTooHighException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/custom_exception/exceptions/TempTooLowException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/custom_exception/exceptions/TempTooLowException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/exception_example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/exception_example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/nullPointException/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/nullPointException/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/runtime_exception/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/runtime_exception/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/runtime_exception/Thermostat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/runtime_exception/Thermostat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/throwing_exception/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/throwing_exception/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/throwing_exception/Thermostat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/throwing_exception/Thermostat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/throwing_exception2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/throwing_exception2/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/throwing_exception2/Thermostat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/throwing_exception2/Thermostat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/try_catch/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/try_catch/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/try_catch3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/try_catch3/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/try_catch_finally/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/try_catch_finally/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch19_Exceptions/src/try_catch_finally/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch19_Exceptions/src/try_catch_finally/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch20_Reading_Writing/src/file_class/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch20_Reading_Writing/src/file_class/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch20_Reading_Writing/src/file_location/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch20_Reading_Writing/src/file_location/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch20_Reading_Writing/src/reading_lineByline/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch20_Reading_Writing/src/reading_lineByline/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch20_Reading_Writing/src/reading_writing_txt/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch20_Reading_Writing/src/reading_writing_txt/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch20_Reading_Writing/src/writing_lineByline/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch20_Reading_Writing/src/writing_lineByline/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch21_Generics/src/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch21_Generics/src/application/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch21_Generics/src/application/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch21_Generics/src/application/App2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch21_Generics/src/collections/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch21_Generics/src/collections/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch21_Generics/src/collections/Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch21_Generics/src/collections/Wrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch21_Generics/src/heirarchy/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch21_Generics/src/heirarchy/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch21_Generics/src/heirarchy/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch21_Generics/src/heirarchy/Creature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch21_Generics/src/heirarchy/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch21_Generics/src/heirarchy/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/arrayList/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/arrayList/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/arrayList/Custom_Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/arrayList/Custom_Object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/arrayList/Iterating.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/arrayList/Iterating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/arrayList/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/arrayList/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/arrayList/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/arrayList/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/custom_hashset/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/custom_hashset/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/equals/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/equals/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/example/Book_wordSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/example/Book_wordSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/example/Split_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/example/Split_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/example_map/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/example_map/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/hashmap/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/hashmap/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/hashmap/Iterating_Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/hashmap/Iterating_Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/hashmap/OrderedMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/hashmap/OrderedMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/hashset/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/hashset/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/hashset/Linked_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/hashset/Linked_HashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/hashset_union_intersection/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/hashset_union_intersection/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/instance_of/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/instance_of/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/list_Interface/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/list_Interface/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/list_Interface/Timing_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/list_Interface/Timing_list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/remove_items/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/remove_items/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/sorting_List/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/sorting_List/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/sorting_List/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/sorting_List/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/treeSet/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ch22_CollectionsAPI/src/treeSet/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam/src/collectionsAPI/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/src/collectionsAPI/Lotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam/src/collectionsAPI/StringTokenizerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/src/collectionsAPI/StringTokenizerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam/src/collectionsAPI/TotalChickenPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/src/collectionsAPI/TotalChickenPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam/src/collectionsAPI/TotalPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/src/collectionsAPI/TotalPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam/src/method/Gamble.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/src/method/Gamble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam/src/method/Gasoline.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/src/method/Gasoline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam/src/method/NewLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/src/method/NewLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam/src/method/Pork.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/src/method/Pork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam/src/method/RareItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/src/method/RareItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam/src/method/Walking.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/src/method/Walking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/hello/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/hello/app1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/src/test/Test211118.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/test/Test211118.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/src/test/Test211119.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/test/Test211119.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22LIw9gtkCDjkFZwOccd3XsiQA2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c6862a0-64b5-4498-9c95-72843e669b66" name="Default Changelist" comment="" />
+      <created>1639610679764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639610679764</updated>
+    </task>
+    <servers />
+  </component>
+</project>
