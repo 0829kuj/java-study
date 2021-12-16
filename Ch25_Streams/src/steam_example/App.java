@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class App {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 스트림은 제네릭 타입임
 		ArrayList<Integer> numbers = new ArrayList<>();
 		numbers.add(1);
 		numbers.add(3);
