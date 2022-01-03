@@ -57,10 +57,10 @@ public class User {
 	}
 
 
-	
 	@Override
 	public String toString() {
 		return "#  아이디= " + id + ", 적립금= " + savePoint + " \n";
 	}
 	
 }
+

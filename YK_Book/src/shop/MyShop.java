@@ -55,6 +55,7 @@ public class MyShop {
 		} else {
 			// 0번째 users값을 재설정함
 			users.set(0, new User(id, password, point));
+			System.out.println(users.toString());
 //			users.add(new User(id, password, point));
 		}
 	}
@@ -68,7 +69,7 @@ public class MyShop {
 		System.out.println(" ==================");
 		System.out.println("|      " + title + "      |");
 		System.out.println(" ==================");
-		System.out.println("# 로그인 하시겠습니까? ( y / n )");
+		System.out.println("# 회원가입 하시겠습니까? ( y / n )");
 		System.out.printf("# 입력 : ");
 		
 		String isLogin = scan.nextLine();
@@ -96,8 +97,7 @@ public class MyShop {
 		System.out.println("");
 		System.out.println("# 처음 방문하시는 고객께서는 회원가입을 먼저 진행해주세요.");
 		System.out.println("# 원하시는 메뉴의 번호를 입력해주세요.");
-		System.out.println("# 1. 로그인");
-		System.out.println("# 2. 회원가입");
+		System.out.println("# 1. 회원가입");
 		System.out.println("# 0. 첫 화면으로");
 		System.out.println("---------------");
 		System.out.printf("# 입력 : ");
@@ -106,9 +106,6 @@ public class MyShop {
 		
 		switch (loginNum) {
 		case 1:
-			loginPage();
-			break;
-		case 2:
 			accountPage();
 			break;
 		case 0:
@@ -126,7 +123,6 @@ public class MyShop {
 	 * 회원가입 페이지
 	 * */
 	public void accountPage() {
-		// 우선 회원가입부터
 		
 		System.out.println("\n"+"===========회원가입===========");
 		
@@ -139,38 +135,6 @@ public class MyShop {
         mainMenu();
 		
 	}
-	
-	
-	/**
-	 * 가입한 id로 로그인
-	 */
-	public void loginPage() {
-		
-		id = nullTest(1);
-        password = nullTest(3);
-
-        boolean isExist = false;
-        for (User each : users) {
-            String eachId = each.getId();
-            String eachPassword = each.getPwd();
-            int eachPoint = each.getSavePoint();
-
-            if (id.equals(eachId) && password.equals(eachPassword)) {
-                System.out.println("조회하신 계정의 정보를 표기합니다.");
-                System.out.printf("id : %s, 비밀번호 : %s, 적릭금 : %d", eachId, eachPassword, eachPoint);
-                System.out.println();
-                isExist = true;
-                mainMenu();
-                break;
-            }
-        }
-
-        if (!isExist) {
-            System.out.println("id 혹은 비밀번호가 틀렸습니다.");
-            initMenu();
-        }
-	}
-	
 
 	/**
 	 * 입력받은 id, 비밀번호의 공백 확인
@@ -204,22 +168,11 @@ public class MyShop {
                 } else if (!input.equals(passwordCheck)) {
                     System.out.println("비밀번호와 비밀번호 확인이 일치하지 않습니다.");
                 } else {
-                    break;
+                    break; 
                 }
             }
             break;
-        case 3:
-            while (true) {
-                System.out.println("비밀번호를 입력하세요: ");
-                input = scan.nextLine();
-
-                if (input.trim().isEmpty()) {
-                    System.out.println("비밀번호가 공백입니다.");
-                } else {
-                    break;
-                }
-            }
-            break;
+        
 		}
 		return input;
 	}
@@ -264,31 +217,43 @@ public class MyShop {
 	 * */
     private void myPage() {		
     	
-        System.out.println("\n"+"===========마이 페이지===========");
-        System.out.println("# 개인정보 접근 전 한번 더 비밀번호를 확인합니다.");
+    	if (id != null) {
 
-        String password = nullTest(3);
+            System.out.println("\n"+"===========마이 페이지===========");
+            System.out.println("# 개인정보 접근 전 한번 더 비밀번호를 확인합니다.");
+            System.out.println("비밀번호를 입력하세요: ");
+            String input = scan.nextLine();
+            
+            if (password.equals(input)) {
+            	System.out.println("비밀번호 확인이 완료되었습니다.");
+            	
+            	for (User each : users) {
+                    String eachId = each.getId();
+                    String eachPassword = each.getPwd();
+                    int eachPoint = each.getSavePoint();
 
-        boolean isExist = false;
-        for (User each : users) {
-            String eachId = each.getId();
-            String eachPassword = each.getPwd();
-            int eachPoint = each.getSavePoint();
+                    if (password.equals(eachPassword)) {
+                        System.out.println("\n" + "조회하신 계정의 정보를 표기합니다.");
+                        System.out.printf("id : %s, 비밀번호 : %s, 적릭금 : %d", eachId, eachPassword, eachPoint);
+                        System.out.println();
+                        
+                        mainMenu();
+                        break;
+                    }
+                }
+            	
+            } else {
 
-            if (password.equals(eachPassword)) {
-                System.out.println("\n" + "조회하신 계정의 정보를 표기합니다.");
-                System.out.printf("id : %s, 비밀번호 : %s, 적릭금 : %d", eachId, eachPassword, eachPoint);
-                System.out.println();
-                isExist = true;
+                System.out.println("비밀번호가 틀렸습니다. 메인메뉴로 돌아갑니다.");
                 mainMenu();
-                break;
             }
-        }
-
-        if (!isExist) {
-            System.out.println("id 혹은 비밀번호가 틀렸습니다.");
-            initMenu();
-        }
+    	} else {
+    		System.out.println("로그인이 필요한 페이지입니다. 메인메뉴로 돌아갑니다.");
+    		mainMenu();
+    	}
+    	
+        
+        
     }
 
 
@@ -433,7 +398,7 @@ public class MyShop {
 		} else {
 			
 			System.out.println("\n"+"==========장바구니 목록==========");
-			System.out.println("번호\t   상품명\t\t     			 가격\t   적립금");
+			System.out.println("번호\t   상품명\t				가격\t   적립금");
 			
 			for (int i = 0; i < cart.size(); i++) {
 				
@@ -570,7 +535,6 @@ public class MyShop {
 	private void exitMenu() {
 		System.out.println("");
 		savePoint(point);
-		System.out.println(users.toString());
 		System.out.println("# 계산이 완료되었습니다. 안녕히 가세요.");
 		System.out.println("# 프로그램을 종료합니다.");
 	}
